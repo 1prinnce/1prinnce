@@ -1,45 +1,62 @@
 # 👋 Hey, I’m Prince Yadav  
 
-🎓 *Computer Science student* | 📊 *Aspiring Data Analyst* | 💻 *Web Dev Learner*  
+🎓 *Computer Science Student* | 📊 *Aspiring Data Analyst* | 💻 *Web Dev Learner*  
 
 ---
 
-## 🚀 About Me
-Hey there! I'm Prince — a passionate techie who loves turning **raw data into meaningful stories** 📈  
-Currently learning **Python, Pandas, NumPy, and Data Visualization tools** to build my career in Data Analytics.  
+## 🚀 About Me  
+Hey there! I'm **Prince** — a passionate techie who loves turning **raw data into meaningful stories** 📈  
+Currently learning **Python, Pandas, NumPy, and Data Visualization tools** to build my career in **Data Analytics**.  
 
-When I’m not coding, I’m probably exploring new AI tools, designing cool stuff, or vibing to lo-fi beats 🎧
-
----
-
-## 🧠 Tech Stack
-💡 **Languages:** Python, HTML, CSS, JavaScript  
-📚 **Libraries:** NumPy, Pandas, Matplotlib  
-🧰 **Tools:** Jupyter Notebook, VS Code, Git & GitHub  
-📊 **Learning Next:** SQL, Power BI, Excel automation  
+When I’m not coding, I’m probably exploring new AI tools, designing cool stuff, or vibing to lo-fi beats 🎧  
 
 ---
 
-## 💼 Featured Projects
+## 🧠 Tech Stack & Skills  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 💼 Featured Projects  
 Here are some of my favorite repos 👇  
+
 🌐 [Prompt.Tara](https://github.com/1prinnce/prompt.tara) — A gallery-style website for users  
 📘 [Numoy-Tutorial](https://github.com/1prinnce/Numoy-Tutorial) — My beginner guide to NumPy  
 🐼 [Panads](https://github.com/1prinnce/Panads) — Step-by-step Pandas learning repo  
 
 ---
 
-## 🌟 Fun Facts
+## 📊 GitHub Stats  
+<div align="center">
+
+![Prince's GitHub stats](https://github-readme-stats.vercel.app/api?username=1prinnce&show_icons=true&theme=radical&hide_border=false)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1prinnce&layout=compact&theme=radical&hide_border=false)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=1prinnce&theme=radical&hide_border=false)
+
+</div>
+
+---
+
+## 🌟 Fun Facts  
 - I love organizing messy data like cleaning my playlist 😅  
 - I learn best by *building small projects every week*  
 - My dream: Work abroad 🌍 and live that data analyst life 💼  
 
 ---
 
-## 💌 Connect With Me
+## 💌 Connect With Me  
 Let’s talk tech, data, or collab ideas 👇  
+
 📫 **GitHub:** [@1prinnce](https://github.com/1prinnce)  
-🌐 **Instagram:** [@1prinnce](https://www.instagram.com/1prinnce?igsh=MTRwaHpqY3VuZ3QxYQ==)   
-💬 Always open to learning and sharing knowledge!
+🌐 **Instagram:** [@1prinnce](https://www.instagram.com/1prinnce?igsh=MTRwaHpqY3VuZ3QxYQ==)  
+💬 Always open to learning and sharing knowledge!  
 
 ---
 
