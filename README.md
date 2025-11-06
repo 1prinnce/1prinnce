@@ -22,7 +22,7 @@ When I’m not coding, I’m probably exploring new AI tools, designing cool stu
 
 ## 💼 Featured Projects
 Here are some of my favorite repos 👇  
-🌐 [Prompt.Tara](https://github.com/1prinnce/prompt.tara) — A gallery-style website for users  
+🌐 [Prompt_Tara](https://github.com/1prinnce/prompt_tara) — A gallery-style website for users  
 📘 [Numoy-Tutorial](https://github.com/1prinnce/Numoy-Tutorial) — My beginner guide to NumPy  
 🐼 [Panads](https://github.com/1prinnce/Panads) — Step-by-step Pandas learning repo  
 
