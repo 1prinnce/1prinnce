@@ -34,11 +34,13 @@ Here are some of my favorite repos 👇
 ---
 
 ## 📊 GitHub Stats  
+
 <div align="center">
 
-![Prince's GitHub stats](https://github-readme-stats.vercel.app/api?username=1prinnce&show_icons=true&theme=radical&hide_border=false)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1prinnce&layout=compact&theme=radical&hide_border=false)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=1prinnce&theme=radical&hide_border=false)
+<img src="https://github-readme-stats.vercel.app/api?username=1prinnce&show_icons=true&theme=radical&hide_border=false" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1prinnce&layout=compact&theme=radical&hide_border=false" width="48%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=1prinnce&theme=radical&hide_border=false" width="95%" />
 
 </div>
 
