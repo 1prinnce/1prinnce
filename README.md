@@ -64,4 +64,7 @@ Let’s talk tech, data, or collab ideas 👇
 
 Made with ❤️ by *Prince Yadav*  
 > *“Think Data. Build Logic. Stay Curious.”* 🚀
+>
+> ![GitHub Contribution Snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+
 
