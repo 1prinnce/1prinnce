@@ -22,7 +22,7 @@ When I’m not coding, I’m probably exploring new AI tools, designing cool stu
 
 ## 💼 Featured Projects
 Here are some of my favorite repos 👇  
-🌐 [Prompt_Tara](https://github.com/1prinnce/prompt_tara) — A gallery-style website for users  
+🌐 [Prompt.Tara](https://github.com/1prinnce/prompt.tara) — A gallery-style website for users  
 📘 [Numoy-Tutorial](https://github.com/1prinnce/Numoy-Tutorial) — My beginner guide to NumPy  
 🐼 [Panads](https://github.com/1prinnce/Panads) — Step-by-step Pandas learning repo  
 
@@ -38,9 +38,7 @@ Here are some of my favorite repos 👇
 ## 💌 Connect With Me
 Let’s talk tech, data, or collab ideas 👇  
 📫 **GitHub:** [@1prinnce](https://github.com/1prinnce)  
-🌐 **LinkedIn:** [my Profile ](https://www.linkedin.com/in/prinnce-yadav?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-🔗 **Instagram** [@1prinnce](https://www.instagram.com/1prinnce?igsh=MTRwaHpqY3VuZ3QxYQ==)
-
+🌐 **Instagram:** [@1prinnce](https://www.instagram.com/1prinnce?igsh=MTRwaHpqY3VuZ3QxYQ==)   
 💬 Always open to learning and sharing knowledge!
 
 ---
@@ -48,18 +46,3 @@ Let’s talk tech, data, or collab ideas 👇
 Made with ❤️ by *Prince Yadav*  
 > *“Think Data. Build Logic. Stay Curious.”* 🚀
 
-
-<!--
-**1prinnce/1prinnce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
