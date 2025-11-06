@@ -39,7 +39,6 @@ Here are some of my favorite repos 👇
 Let’s talk tech, data, or collab ideas 👇  
 📫 **GitHub:** [@1prinnce](https://github.com/1prinnce)  
 🌐 **LinkedIn:** [my Profile ](https://www.linkedin.com/in/prinnce-yadav?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-
 🔗 **Instagram** [@1prinnce](https://www.instagram.com/1prinnce?igsh=MTRwaHpqY3VuZ3QxYQ==)
 💬 Always open to learning and sharing knowledge!
 
