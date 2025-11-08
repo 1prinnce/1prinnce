@@ -25,14 +25,14 @@ When I’m not coding, I’m probably exploring new AI tools, designing cool stu
 
 ---
 
-## 💼 Featured Projects
+## 💼 Featured Projects  
 
-Here are some of my favorite repos 👇
+Here are some of my favorite repos 👇  
 
-🌐 [Prompt.Tara](https://github.com/1prinnce/prompt.tara) — A gallery-style website for users
-🔐 [Password-Manager](https://github.com/1prinnce/Password-Manager) — A CLI Python project to securely store and retrieve passwords
-📘 [Numoy-Tutorial](https://github.com/1prinnce/Numoy-Tutorial) — My beginner guide to NumPy
-🐼 [Panads](https://github.com/1prinnce/Panads) — Step-by-step Pandas learning repo
+🌐 [Prompt.Tara](https://github.com/1prinnce/prompt.tara) — A gallery-style website for users  
+🔐 [Password-Manager](https://github.com/1prinnce/Password-Manager) — A CLI Python project to securely store and retrieve passwords  
+📘 [Numoy-Tutorial](https://github.com/1prinnce/Numoy-Tutorial) — My beginner guide to NumPy  
+🐼 [Panads](https://github.com/1prinnce/Panads) — Step-by-step Pandas learning repo  
 
 ---
 
