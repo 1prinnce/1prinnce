@@ -61,8 +61,8 @@ Here are some of my favorite repos 👇
 
 Let’s talk tech, data, or collab ideas 👇
 
-📫 **GitHub:** [@1prinnce](https://github.com/1prinnce)
-🌐 **Instagram:** [@1prinnce](https://www.instagram.com/1prinnce?igsh=MTRwaHpqY3VuZ3QxYQ==)
+📫 **GitHub:** [@1prinnce](https://github.com/1prinnce)  
+🌐 **Instagram:** [@1prinnce](https://www.instagram.com/1prinnce?igsh=MTRwaHpqY3VuZ3QxYQ==)  
 💬 Always open to learning and sharing knowledge!
 
 ---
