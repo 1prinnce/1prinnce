@@ -1,19 +1,9 @@
-# 👋 Hey, I’m Prince Yadav
+# Hi, I'm Prince
 
-🎓 *Computer Science Student* | 📊 *Aspiring Data Analyst* | 💻 *Web Dev Learner*
+I build clean, simple and purposeful software.  
+Currently focused on Python, data analytics and real-world projects.
 
----
-
-## 🚀 About Me
-
-Hey there! I'm **Prince** — a passionate techie who loves turning **raw data into meaningful stories** 📈
-Currently learning **Python, Pandas, NumPy, and Data Visualization tools** to build my career in **Data Analytics**.
-
-When I’m not coding, I’m probably exploring new AI tools, designing cool stuff, or vibing to lo-fi beats 🎧
-
----
-
-## 🧠 Tech Stack & Skills
+### Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
@@ -46,14 +36,6 @@ Here are some of my favorite repos 👇
 <img src="https://github-readme-streak-stats.herokuapp.com?user=1prinnce&theme=radical&hide_border=false" width="95%" />
 
 </div>
-
----
-
-## 🌟 Fun Facts
-
-* I love organizing messy data like cleaning my playlist 😅
-* I learn best by *building small projects every week*
-* My dream: Work abroad 🌍 and live that data analyst life 💼
 
 ---
 
