@@ -25,14 +25,13 @@ Here are some of my favorite repos 👇
 
 Here are some of my favorite repos 👇
 
-🔐 [Password-Manager](https://github.com/1prinnce/Password-Manager) — A CLI Python project to securely store and retrieve passwords  
+🔐 **[Password-Manager](https://github.com/1prinnce/Password-Manager)** — A CLI Python tool to securely store and retrieve passwords.
 
-📘 [NumPy-Tutorial](https://github.com/1prinnce/Numpy-Tutorial) — My beginner guide to NumPy  
+📘 **[NumPy-Tutorial](https://github.com/1prinnce/Numoy-Tutorial)** — My beginner-friendly guide to understanding NumPy fundamentals.
 
-🐼 [Panads](https://github.com/1prinnce/Panads) — Step-by-step Pandas learning repo  
+🐼 **[Panads](https://github.com/1prinnce/Panads)** — Step-by-step learning repo for mastering Pandas.
 
-🎧 [Spotify-Trends-Analysis](https://github.com/1prinnce/Spotify-Trends-Analysis) —  
-A complete end-to-end Data Analytics project using **Excel + SQL + Power BI**, analyzing 230K+ songs to uncover trends in popularity, genres, artist performance & hit-song characteristics.  
+🎧 **[Spotify Trends & Popularity Analysis](https://github.com/1prinnce/Spotify-Trends-Popularity-Analysis)** — A complete data analytics project using Excel, SQL & Power BI to analyze 230K+ Spotify songs, explore genre popularity, top artists, hit-song characteristics, and build an interactive dashboard with slicers.
 
 ---
 
