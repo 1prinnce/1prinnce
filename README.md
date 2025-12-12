@@ -17,13 +17,7 @@ Currently focused on Python, data analytics and real-world projects.
 
 ---
 
-## 💼 Featured Projects  
-
-Here are some of my favorite repos 👇  
- 
 ## 🧩 Featured Projects
-
-Here are some of my favorite repos 👇
 
 🔐 **[Password-Manager](https://github.com/1prinnce/Password-Manager)** — A CLI Python tool to securely store and retrieve passwords.
 
