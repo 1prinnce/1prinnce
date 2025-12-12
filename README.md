@@ -8,6 +8,7 @@ Currently focused on Python, data analytics and real-world projects.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -19,11 +20,19 @@ Currently focused on Python, data analytics and real-world projects.
 ## 💼 Featured Projects  
 
 Here are some of my favorite repos 👇  
+ 
+## 🧩 Featured Projects
 
-🌐 [Prompt.Tara](https://github.com/1prinnce/prompt.tara) — A gallery-style website for users  
+Here are some of my favorite repos 👇
+
 🔐 [Password-Manager](https://github.com/1prinnce/Password-Manager) — A CLI Python project to securely store and retrieve passwords  
-📘 [Numoy-Tutorial](https://github.com/1prinnce/Numoy-Tutorial) — My beginner guide to NumPy  
+
+📘 [NumPy-Tutorial](https://github.com/1prinnce/Numpy-Tutorial) — My beginner guide to NumPy  
+
 🐼 [Panads](https://github.com/1prinnce/Panads) — Step-by-step Pandas learning repo  
+
+🎧 [Spotify-Trends-Analysis](https://github.com/1prinnce/Spotify-Trends-Analysis) —  
+A complete end-to-end Data Analytics project using **Excel + SQL + Power BI**, analyzing 230K+ songs to uncover trends in popularity, genres, artist performance & hit-song characteristics.  
 
 ---
 
